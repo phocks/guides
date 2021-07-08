@@ -13,7 +13,7 @@ gem "listen"
 gem "builder"
 gem "middleman-alias"
 gem "underscore-rails"
-gem "html-proofer"
+gem "html-proofer", ">= 2.5.2"
 
 gem "normalize-scss"
 gem "bourbon"
